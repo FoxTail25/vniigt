@@ -124,7 +124,7 @@ export default function TableTrainData({ train }) {
                 </div>
 
                 : <div className={t2.nodata}>
-                    "Выберите поезд"
+                    Выберите поезд
                 </div>
 
         }
